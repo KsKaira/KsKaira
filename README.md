@@ -6,7 +6,7 @@ Greetings! I'm a web designer and developer, channeling my passion for pixels in
 
 <p align="left">
   <a href= "https://www.youtube.com/channel/UCOCOYTPitA8qlYJ1REbRoXA">
-    <img alt ="youtube subscribers" title="Subscribe to my Youtube Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoClor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <img alt ="youtube subscribers" title="Subscribe to my Youtube Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCOCOYTPitA8qlYJ1REbRoXA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoClor=white&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://www.youtube.com/kskanika">
     <a href="https://github.com/Kskanika?tab=followers">
       <img alt = "followers" title= "Followe me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kskanika?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logocolor=white"/></a>

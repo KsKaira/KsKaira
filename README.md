@@ -1,4 +1,4 @@
-### ✨🧚‍♀️ KS Kanika 🧚‍♀✨
+### ✨🧚‍♀️ KAIRA 🧚‍♀✨
 
 **`Web Designer & Developer`**
 
@@ -19,12 +19,12 @@ Greetings! I'm a web designer and developer, channeling my passion for pixels in
 Here are some ideas to get you started:
 <p align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Generative AI, Python, DSA projects and learning 
+- 🌱 I’m currently learning Biology + Machine learning
+- 👯 I’m looking to collaborate on study together
+- 🤔 I’m looking for help with Biology and Datascience
+- 💬 Talk about Python, Programming, Startups, Technology, Web3, Machine learning, Artificial Intelligence
+- 📫 How to reach me: discord kaira006
+- 😄 Pronouns:  being human is all that matters
+- ⚡ Fun fact: Panipuris and Raaj Kachori are better than anything else >>>>>>
+

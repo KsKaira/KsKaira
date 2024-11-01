@@ -5,7 +5,7 @@
 Greetings! I'm a web designer and developer, channeling my passion for pixels into vibrant online experiences. From coding to crafting, I'm all about making the web a captivating and functional space. Let's team up to turn bugs into breakthroughs and lines of code into digital art! With a keen eye for aesthetics and a love for problem-solving, I'm on a mission to create web experiences that marry form and function seamlessly. Join me in this exciting journey of turning ideas into interactive realities by subscribing to my Youtube channel "[kskaira](https://www.youtube.com/channel/UCOCOYTPitA8qlYJ1REbRoXA)"!  🎨💻🚀
 
 <p align="left">
-  <a href= "https://www.youtube.com/channel/UCOCOYTPitA8qlYJ1REbRoXA">
+  <a href= "https://www.youtube.com/channel/UCOCOYTPitA8qlYJ1REbRoX">
     <img alt ="youtube subscribers" title="Subscribe to my Youtube Channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCOCOYTPitA8qlYJ1REbRoXA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoClor=white&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://www.youtube.com/kskanika">
     <a href="https://github.com/Kskanika?tab=followers">
